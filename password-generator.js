@@ -8,4 +8,4 @@ function generateRandomPassword() {
     });
     return password;
 };
-console.log('password , R2hh ');
+console.log('password');
