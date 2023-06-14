@@ -6,7 +6,7 @@ This repository contains my solutions for the Node.js tasks of the checkpoint.
  
  Task 2: HTTP Server
 - File: server.js
-- Description: A program that runs an HTTP server on port 3000 and responds with "<h1>Hello Node!!!!</h1>\n" when someone reaches http://localhost:3000.
+- Description: A program that runs an HTTP server on port 3000 and responds when someone reaches http://localhost:3000.
 
 Task 3: File Operations
 
